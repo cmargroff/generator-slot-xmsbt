@@ -2,10 +2,11 @@
   "name": "generator-slot-xmsbt",
   "version": "0.0.1",
   "description": "Super smash brothers slot title patch file generator",
+  "homepage": "https://github.com/cmargroff/generator-slot-xmsbt",
   "author": {
     "name": "Chris Margroff",
     "email": "sora3087@gmail.com",
-    "url": ""
+    "url": "https://github.com/cmargroff/generator-slot-xmsbt"
   },
   "files": [
     "generators"
