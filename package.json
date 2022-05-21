@@ -1,6 +1,6 @@
 {
   "name": "generator-slot-xmsbt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Super smash brothers slot title patch file generator",
   "homepage": "https://github.com/cmargroff/generator-slot-xmsbt",
   "author": {
@@ -39,12 +39,10 @@
     "npm": ">= 4.0.0"
   },
   "dependencies": {
-    "chalk": "^2.1.0",
     "lodash": "^4.17.21",
     "typescript": "^4.6.4",
     "xmlbuilder2": "^3.0.2",
-    "yeoman-generator": "^3.1.1",
-    "yosay": "^2.0.2"
+    "yeoman-generator": "^3.1.1"
   },
   "jest": {
     "testEnvironment": "node"
